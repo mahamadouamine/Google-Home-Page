@@ -1,0 +1,5 @@
+#Google Home Page
+
+##Page d'acceuil google
+
+Ce projet est un exercice où j'ai construit une copie simple de la page d'accueil de Google. Le but principal était de pratiquer comment faire une page qui s'affiche bien partout (sur ordinateur, tablette et téléphone). J'ai utilisé le HTML pour donner la structure de la page, le CSS pour l'apparence et les couleurs, et Flexbox pour bien centrer les éléments. J'ai aussi utilisé les Media Queries pour que la page change d'apparence pour les petits écrans. J'ai réussi à créer le squelette de la page en séparant l'en-tête, le corps et le bas de page. J'ai refait le logo Google avec les bonnes couleurs et j'ai créé la barre de recherche avec les bords arrondis, en y insérant l'icône de la loupe. Les deux boutons de recherche ont été ajoutés avec un petit effet de survol. Surtout, la page s'adapte correctement à tous les types d'écrans (téléphones et tablettes), grâce à une base CSS propre qui uniformise les marges et la taille des boîtes.
